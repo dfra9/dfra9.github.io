@@ -2,10 +2,10 @@
   "basics": {
     "name": "Defara Putra",
     "label": "Front End Developer",
-    "image": "/me_avatar.jpg",
+    "image": "/dfra.png",
     "email": "defara41@gmail.com",
     "phone": "",
-    "url": "https://johndoe.dev",
+    "url": "https://dfra9.github.io",
     "summary": "Hi Im Defara Putra, Computer Science Student at Bina Nusantara University. Interest about web development. I enjoy collaborating with others on challenging projects, which have allowed me to hone my skills in web development",
     "theme": "default",
     "location": {
@@ -47,6 +47,12 @@
         "Activist Himti 2024/2025"
       ],
       "responsibilities": [
+        "collaborating with other people to create design",
+        "make a great Communication for make an event",
+        "build self development and time management",
+        "train soft skill and hard skill with organization"
+      ],
+      "achievements": [
         "Participated commite Web Development HISHOT2024 ",
         "participated commite as DND Alumni Gathering 2023",
         "Participated commite HIVENT 2023",
@@ -54,13 +60,11 @@
         "Participated commite equipment coordination chairman Company Visit 2024",
         "Participated commite HIMTI Farewell 2024"
       ],
-      "achievements": [
-        ""
-      ],
       "skills": [
         "Team Work",
         "Communication",
-        "Leadership"
+        "Leadership",
+        "Collaborating"
       ]
     }
 
