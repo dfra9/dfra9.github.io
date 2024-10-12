@@ -89,7 +89,7 @@
       "area": "Computer Science",
       "studyType": "Undergraduate",
       "startDate": "2023-06-09",
-      "endDate": "SOON",
+      "endDate": "2026-01-01",
       "score": "",
       "courses": [
         "CS101 - Introduction to Computer Science",
@@ -179,10 +179,10 @@
     {
       "name": "Tower Of Hanoi",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "A code for sorting Item with CRUD method, logic sorting simmilary like a game Tower Of Hanoi",
       "highlights": [
         "Built with C",
-        "Code for playing like sorting tower of hanoi"
+        "Code sorting item like sorting tower of hanoi"
       ],
       "url": "https://github.com/dfra9/tower-of-hanoi"
     },
