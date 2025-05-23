@@ -41,11 +41,9 @@
       "location": "Bandung",
       "url": "",
       "startDate": "2024",
-      "endDate": null,
+      "endDate": "2025",
       "summary": "Organizations help School of Computer Science students to have hard skills as well as soft skills in organization.",
-      "highlights": [
-        "Activist Himti 2024/2025"
-      ],
+      "highlights": ["Activist Himti 2024/2025"],
       "responsibilities": [
         "collaborating with other people to create design",
         "make a great Communication for make an event",
@@ -60,14 +58,8 @@
         "Participated commite equipment coordination chairman Company Visit 2024",
         "Participated commite HIMTI Farewell 2024"
       ],
-      "skills": [
-        "Team Work",
-        "Communication",
-        "Leadership",
-        "Collaborating"
-      ]
+      "skills": ["Team Work", "Communication", "Leadership", "Collaborating"]
     }
-
   ],
   "volunteer": [
     {
@@ -77,9 +69,7 @@
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
       "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education": [
@@ -100,28 +90,16 @@
   "skills": [
     {
       "name": "HTML",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-        
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "JavaScript",
       "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
@@ -135,47 +113,48 @@
     },
     {
       "name": "MySQL",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "Git",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "ReactJS",
+      "keywords": ["Web Development", "Frontend", "JavaScript Framework"]
+    },
+    {
+      "name": ".NET Framework",
+      "keywords": ["Web Development", "Backend", ".NET", "Framework"]
+    },
+    {
+      "name": "C#",
+      "keywords": ["Programming Language", "Backend", ".NET"]
+    },
+    {
+      "name": "Figma",
+      "keywords": ["Design", "UI/UX", "Prototyping"]
+    },
+    {
+      "name": "Typescript",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     }
-    
   ],
-
-
 
   "projects": [
     {
       "name": "Easeneura",
       "isActive": true,
       "description": "EaseNeura is a Flutter application designed to help individuals seeking consultation with mental health specialists and to support users in managing their own mental health.",
-      "highlights": [
-        "Application For Mental Health"
-      ],
+      "highlights": ["Application For Mental Health"],
       "url": "https://github.com/dfra9/easeneura",
       "github": "https://github.com/dfra9/easeneura"
     },
-    
+
     {
       "name": "Tower Of Hanoi",
       "isActive": true,
@@ -196,7 +175,16 @@
       ],
       "url": "https://github.com/dfra9/Illegal-Maritime-Activities-System",
       "github": "https://github.com/dfra9/Illegal-Maritime-Activities-System"
+    },
+    {
+      "name": "IT_Inventory Management",
+      "isActive": true,
+      "description": ".",
+      "highlights": [
+        "Built with .NET Framework and C# ",
+        "CRUD Application for IT Inventory"
+      ],
+      "github": "https://github.com/dfra9/IT_Inventory"
     }
-    
   ]
 }
