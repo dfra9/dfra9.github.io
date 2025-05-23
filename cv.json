@@ -142,6 +142,10 @@
     {
       "name": "Typescript",
       "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "SQL Server",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     }
   ],
 
